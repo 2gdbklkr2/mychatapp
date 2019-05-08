@@ -1,1 +1,1 @@
-# mychatapp
+socket.io tutorial (simple chat application)
